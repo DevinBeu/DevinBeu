@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm **Devin**, a passionate software developer working at **Terpene Transit**. I love building scalable, efficient, and user-friendly applications.
-![<DevinBeu>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![DevinBeu's Stats](https://github-readme-stats.vercel.app/api?username=DevinBeu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 - 🔭 I’m currently working on **innovative solutions at Terpene Transit**.
 - 🌱 I’m currently learning **advanced DevOps practices and state management techniques**.
