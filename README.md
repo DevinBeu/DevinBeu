@@ -10,7 +10,9 @@ I'm **Devin**, a passionate software developer working at **Terpene Transit**. I
 - 💬 Ask me about **JavaScript, React, Python, or backend development**.
 - 📫 How to reach me: **devin@example.com**.
 - 😄 Pronouns: **He/Him**.
-- ⚡ Fun fact: **I can solve a Rubik's Cube in under 2 minutes!**
+- ⚡ Fun fact: I once made a music video!  
+[![Watch the video](https://img.youtube.com/vi/bXY1jPqFA3c/0.jpg)](https://www.youtube.com/watch?v=bXY1jPqFA3c)
+
 
 ### My Tools & Technologies
 - **Languages**: JavaScript, Python, SQL, Bash
