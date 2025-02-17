@@ -27,7 +27,7 @@ I'm **Devin**, a passionate software developer working at **Terpene Transit**. I
 - [Open Source Contributions](https://github.com/DevinBeu): Check out my contributions to various open-source projects.
 
 ### Connect with Me
-- [LinkedIn]([https://linkedin.com/in/devinbeu](https://www.linkedin.com/in/devin-beu-9007b922b/))
+- [LinkedIn](https://www.linkedin.com/in/devin-beu-9007b922b/)
 - [Twitter](https://twitter.com/devinbeu)
 - [Email](mailto:devinbeu@gmail.com)
 
